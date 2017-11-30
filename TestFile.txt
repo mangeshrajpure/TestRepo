@@ -35,3 +35,7 @@ one more version increment.
   adding 1st line from local to github branch
   
   2nd change local to github branch
+  
+Version increment after merging branch.
+ 
+ 
