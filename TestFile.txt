@@ -6,3 +6,5 @@ Added 3rd line from desktop.
 
 Adding 4th line from github.
 
+Testing conflict - line from github.
+
