@@ -14,6 +14,6 @@ Added 6th line for incrementing version.
 
 Putting 8th line to augment version. Expecting conflict. Removed 7th line from github.
 
-Inserting 10th line locally to expect conflict.
+Resolved conflict by retaining 9th line from github to test conflict.
 
 
