@@ -12,6 +12,8 @@ Adding 5th line for testing from local.
 
 Added 6th line for incrementing version.
 
-Putting 8th line to augment version. Expecting conflict.
+Putting 8th line to augment version. Expecting conflict. Removed 7th line from github.
+
+
 
 
