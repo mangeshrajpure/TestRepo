@@ -19,3 +19,6 @@ Resolved conflict by retaining 9th line from github to test conflict.
 11th line locally to increment version.
 
 1st branch
+
+1st branch 2nd commit
+
