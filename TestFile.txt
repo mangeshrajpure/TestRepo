@@ -10,4 +10,6 @@ Testing conflict - adding line from local.
 
 Adding 5th line for testing from local.
 
+Added 6th line for incrementing version.
+
 
