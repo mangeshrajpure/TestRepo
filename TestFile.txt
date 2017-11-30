@@ -23,3 +23,6 @@ Resolved conflict by retaining 9th line from github to test conflict.
 1st branch 2nd commit
 1st branch 3rd commit
 
+incrementing version after 1st merge.
+
+
