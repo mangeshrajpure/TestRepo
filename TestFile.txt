@@ -16,4 +16,6 @@ Putting 8th line to augment version. Expecting conflict. Removed 7th line from g
 
 Resolved conflict by retaining 9th line from github to test conflict.
 
+11th line locally to increment version.
+
 
