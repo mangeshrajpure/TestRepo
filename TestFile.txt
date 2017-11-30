@@ -19,3 +19,7 @@ Resolved conflict by retaining 9th line from github to test conflict.
 11th line locally to increment version.
 
 12th line to master branch.
+1st branch
+1st branch 2nd commit
+1st branch 3rd commit
+
