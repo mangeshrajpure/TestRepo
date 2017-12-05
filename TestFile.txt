@@ -54,3 +54,6 @@ Version increment after merging branch.
  rebase branch version increment
 
  rebase branch version increment
+
+ version increment
+ 
