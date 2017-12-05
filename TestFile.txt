@@ -60,4 +60,7 @@ Version increment after merging branch.
  one more version increment
  
  origin checkout
+
+ 2nd rebase branch
+ 
  
