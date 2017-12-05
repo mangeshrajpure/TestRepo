@@ -63,4 +63,7 @@ Version increment after merging branch.
  2nd rebase branch
 
 Test merging
+
+feature branch
+
  
