@@ -48,5 +48,6 @@ Version increment after merging branch.
  
  one more origin version increment
  
+ test rebase branch commit
  
  
