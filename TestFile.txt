@@ -65,3 +65,24 @@ Version increment after merging branch.
 Test merging
  
 origin checkout
+
+feature branch
+
+feature added 
+
+
+bug fix 1
+
+bug fix 2
+
+bug fix 3
+
+feature checkout
+
+feature2 added
+
+merge bug with feature
+
+version advance
+
+merge bug fix with origin
