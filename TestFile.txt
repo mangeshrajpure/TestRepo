@@ -64,3 +64,4 @@ Version increment after merging branch.
 
 Test merging
  
+origin checkout
