@@ -52,3 +52,5 @@ Version increment after merging branch.
  test rebase branch commit
  
  rebase branch version increment
+
+ rebase branch version increment
