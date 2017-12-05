@@ -42,11 +42,13 @@ Version increment after merging branch.
  
  one more version
  
+
  Origin version checkout
  
  origin version increment
  
  one more origin version increment
  
+ test rebase branch commit
  
- 
+ rebase branch version increment
