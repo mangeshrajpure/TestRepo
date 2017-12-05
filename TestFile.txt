@@ -44,3 +44,7 @@ Version increment after merging branch.
  
  Origin version checkout
  
+ origin version increment
+ 
+ 
+ 
