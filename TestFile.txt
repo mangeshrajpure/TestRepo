@@ -61,4 +61,6 @@ Version increment after merging branch.
 
  origin checkout
  2nd rebase branch
+
+Test merging
  
